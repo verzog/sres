@@ -15,7 +15,7 @@
     <url>http://hedc.otago.ac.nz</url>
 
     <properties>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>6.2.19</spring.version>
         <jetty.version>9.3.8.v20160314</jetty.version>
         <slf4j.version>1.7.18</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
